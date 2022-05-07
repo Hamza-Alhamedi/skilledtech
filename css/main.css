@@ -1,0 +1,21 @@
+.divborder {
+    border-style: groove;
+    border-color: brown;
+}
+.logomain {
+    width: 150px;
+    height: 80px;
+    padding-left: 80px;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+}
+.slider_imag {
+    width: 100%;
+    height: 450px;
+}
