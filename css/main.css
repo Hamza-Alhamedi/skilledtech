@@ -1,12 +1,10 @@
-.divborder {
-    border-style: groove;
-    border-color: brown;
+header {
+text-align: center;
+}
 }
 .logomain {
     width: 150px;
-    height: 80px;
-    padding-left: 80px;
-}
+    height: 80px;}
 a {
     text-decoration: none;
     color: #000;
